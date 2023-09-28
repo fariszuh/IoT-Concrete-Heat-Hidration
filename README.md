@@ -49,22 +49,33 @@ Hasil dan evaluasi yang diperoleh dari pengujian alat meliputi:
 
 ### Hasil pengambilan data thermocouple tipe K tersaji dalam grafik berikut
 ![img.png](img.png)
+
 Gambar 4. 6 Kalibrasi Pengukuran Suhu
+
 Error thermocouple terukur rata-rata sebesar 0.8025°C (absolute). Hal ini menandakan bahwa standar pengukuran <5% dari range 60°C sudah te enuhi atau bernilai < 3°C. 
 
 ### Hasil pengujian Panjang susut tersaji pada grafik berikut. 
+
 ![img_1.png](img_1.png)
+
 Gambar 4. 7 Kalibrasi Pengukuran Susut
+
 Error pengukuran digital caliper diperoleh sebesar 252.142857 µm. Nilai error ini masih jauh dari harapan, yakni sesuai standar 10 µm. ketidaksesuaian ini dimungkinkan terjadi karena kontak multiple elektrode stator (tembaga) dengan jalur slider (sin-cos plate) pada PCB terkadang bergeser vertical (normalnya hanya bergeser horizontal sepanjang tuas caliper) sehingga menyebabkan adanya gap antar plate dan timbul noise capacitance. Gap ini dimungkinkan terjadi karena pemasangan caliper dan kabel extender ke modul memakan jalur gerak tuas caliper sehingga jika dilihat dari sisi mekanikal akan sedikit menganga.
 
 ### Hasil percobaan monitoring dari sampel beton mutu 25 MPa yang dibuat memperoleh hasil sebagai berikut. 
 
 Data hasil pengukuran suhu oleh termokopel disajikan pada gambar 4.8 dan data pengukuran susut oleh digital caliper disajikan oleh gambar 4.10. Untuk memperoleh prediksi kuat tekan beton digunakan nilai suhu yang dimasukkan kedalam persamaan Nurse-Saul dan diperoleh plot grafik perbandingan kuat tekan terhadap umur beton.
+
 ![img_2.png](img_2.png)
+
 Gambar 4. 8 Hasil Monitoring Suhu Beton
+
 ![img_3.png](img_3.png)
+
 Gambar 4. 9 Hasil Ploting Grafik Indeks Kematangan Beton
+
 ![img_4.png](img_4.png)
+
 Gambar 4. 10 Hasil Monitoring Susut Beton
 
 ## Kesimpulan
